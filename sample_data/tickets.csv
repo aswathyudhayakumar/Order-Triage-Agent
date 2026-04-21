@@ -1,0 +1,11 @@
+ID,Customer,Order #,Description,Date,Item,Channel
+TKT-001,Sarah Chen,ORD-9021,I received the wrong size jacket. I ordered a medium but got a large.,2025-04-10,Cashmere Jacket,email
+TKT-002,James Park,ORD-8847,My package shows delivered but I never received it. It's been 5 days.,2025-04-11,Merino Sweater,chat
+TKT-003,Priya Nair,ORD-9103,The stitching on my linen pants came undone after the first wash.,2025-04-11,Linen Pants,email
+TKT-004,Marcus Webb,ORD-7992,I was charged twice for the same order.,2025-04-12,Pima Tee 3-Pack,phone
+TKT-005,Emily Torres,ORD-9244,My order has been in processing for 12 days. Estimated delivery was last week.,2025-04-12,Silk Pillowcase,email
+TKT-006,David Kim,ORD-8601,I'd like to return these shoes. They don't fit as expected.,2025-04-13,Leather Loafers,chat
+TKT-007,Rachel Liu,ORD-9312,Package arrived completely crushed. The item inside is broken.,2025-04-13,Ceramic Mug Set,email
+TKT-008,Tom Brennan,ORD-9001,I received my order but it's missing one of the two items I ordered.,2025-04-14,Towel Bundle,email
+TKT-009,Anika Patel,ORD-9445,Tracking hasn't updated in 8 days. Still shows in transit.,2025-04-14,Wool Blanket,chat
+TKT-010,Chris Morgan,ORD-8230,Happy with my purchase, but I want to exchange for a different color.,2025-04-15,Cotton Shirt,email
