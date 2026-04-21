@@ -4,7 +4,7 @@ A schema-agnostic, AI-powered triage system for ecommerce customer support ticke
 
 Built with Groq (Llama 3.3 70B) and Streamlit.
 
-**[Live Demo](#)** · **[GitHub](https://github.com/YOUR_USERNAME/order-triage-agent)**
+**[Live Demo](https://order-triage-agent-33hrq38t2mhsgckvowat5w.streamlit.app/)** · **[GitHub](https://github.com/YOUR_USERNAME/order-triage-agent)**
 
 ---
 
